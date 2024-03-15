@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\data\\marriottfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:data\\marriottfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\data\\foodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:data\\foodcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\data\\effoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:data\\effoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\data\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:data\\ifoodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\controllers\\marriottfoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:controllers\\marriottfoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|c:\\users\\szach\\source\\repos\\fullstack\\backend\\fullstackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF5E74FA-1ECE-4FEF-AA12-B4757CA261F1}|FullStackAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarriottFoodController.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Controllers\\MarriottFoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarriottFoodController.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Controllers\\MarriottFoodController.cs",
+              "RelativeToolTip": "Controllers\\MarriottFoodController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:31:59.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFFoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\EFFoodRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFFoodRepository.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\EFFoodRepository.cs",
+              "RelativeToolTip": "Data\\EFFoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:25:06.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFoodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\IFoodRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IFoodRepository.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\IFoodRepository.cs",
+              "RelativeToolTip": "Data\\IFoodRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T02:23:18.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:54:53.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T01:53:42.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodContext.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\FoodContext.cs",
+              "RelativeDocumentMoniker": "Data\\FoodContext.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\FoodContext.cs",
+              "RelativeToolTip": "Data\\FoodContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:49:29.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarriottFood.cs",
+              "DocumentMoniker": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\MarriottFood.cs",
+              "RelativeDocumentMoniker": "Data\\MarriottFood.cs",
+              "ToolTip": "C:\\Users\\szach\\source\\repos\\FullStack\\backend\\FullStackAPI\\Data\\MarriottFood.cs",
+              "RelativeToolTip": "Data\\MarriottFood.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T01:47:23.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
